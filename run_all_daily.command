@@ -18,13 +18,6 @@ LOG_FILE="$LOG_DIR/cocofuro_${MONTH_STR}.log"
   echo "======================================================="
 } | tee -a "$LOG_FILE"
 
-# Spotify APIキー等の環境変数を読み込み（.env.sppl は git 管理外）
-if [ -f "$BASE_DIR/.env.sppl" ]; then
-  set -a
-  source "$BASE_DIR/.env.sppl"
-  set +a
-fi
-
 # 仮想環境の有効化
 source "$BASE_DIR/.venv/bin/activate"
 

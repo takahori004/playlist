@@ -4,13 +4,21 @@ import os
 import glob
 import json
 import time
+import configparser
 from datetime import datetime
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = os.environ["SPOTIFY_CLIENT_ID"]
-CLIENT_SECRET = os.environ["SPOTIFY_CLIENT_SECRET"]
-REDIRECT_URI = os.environ.get("SPOTIFY_REDIRECT_URI", "http://127.0.0.1:8080")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATH = os.path.join(BASE_DIR, "sppl.ini")
+
+config = configparser.ConfigParser()
+if not config.read(CONFIG_PATH, encoding="utf-8"):
+    raise FileNotFoundError(f"設定ファイルが見つかりません: {CONFIG_PATH}（sppl.ini.example を参考に作成してください）")
+
+CLIENT_ID = config["spotify"]["client_id"]
+CLIENT_SECRET = config["spotify"]["client_secret"]
+REDIRECT_URI = config["spotify"].get("redirect_uri", "http://127.0.0.1:8080")
 SCOPE = "playlist-modify-public playlist-modify-private playlist-read-private"
 CACHE_PATH = ".cache-sppl"
 JSON_DIR = "/Users/takashi/batch/sppl/json"
