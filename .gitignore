@@ -1,0 +1,6 @@
+.venv/
+.cache-sppl
+.env.sppl
+logs/*.log
+__pycache__/
+*.pyc

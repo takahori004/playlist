@@ -1,0 +1,124 @@
+{
+  "facility": "COCOFURO たかの湯",
+  "playlist_name": "【非公式】{facility} {year}年{month}月 ミュージックロウリュ",
+  "description": "{facility} のマンスリーまとめ（{date} 更新 / 非公式）",
+  "daily_playlist_name": "【非公式】{facility}　本日のミュージックロウリュ",
+  "daily_description": "{facility}の本日（{date}）のミュージックロウリュ楽曲まとめ（毎朝自動更新 / 非公式）",
+  "public": true,
+  "songs": [
+    {"date": "2026-09-01", "title": "アイドゥーミー！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-01", "title": "太陽であれ！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-01", "title": "POISON", "artist": "反町隆史"},
+
+    {"date": "2026-09-02", "title": "チリコンカン", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-02", "title": "On your mark", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-02", "title": "美しく燃える森", "artist": "東京スカパラダイスオーケストラ"},
+
+    {"date": "2026-09-03", "title": "WAWO!", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-03", "title": "37.5℃のファンタジー", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-03", "title": "東京フラッシュ", "artist": "Vaundy"},
+
+    {"date": "2026-09-04", "title": "アイドゥーミー！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-04", "title": "太陽であれ！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-04", "title": "くじら12号", "artist": "JUDY AND MARY"},
+
+    {"date": "2026-09-06", "title": "WAWO!", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-06", "title": "37.5℃のファンタジー", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-06", "title": "Anarchy", "artist": "Official髭男dism"},
+
+    {"date": "2026-09-07", "title": "アイドゥーミー！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-07", "title": "太陽であれ！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-07", "title": "夜空ノムコウ", "artist": "SMAP"},
+
+    {"date": "2026-09-08", "title": "チリコンカン", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-08", "title": "On your mark", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-08", "title": "声", "artist": "羊文学"},
+
+    {"date": "2026-09-09", "title": "WAWO!", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-09", "title": "37.5℃のファンタジー", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-09", "title": "ひとりごつ", "artist": "ハチワレ"},
+
+    {"date": "2026-09-11", "title": "チリコンカン", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-11", "title": "On your mark", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-11", "title": "Wonderwall", "artist": "Oasis"},
+
+    {"date": "2026-09-13", "title": "アイドゥーミー！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-13", "title": "太陽であれ！", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-13", "title": "好きすぎて滅！", "artist": "M!LK"},
+
+    {"date": "2026-09-14", "title": "チリコンカン", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-14", "title": "On your mark", "artist": "蓮ノ空女学院スクールアイドルクラブ"},
+    {"date": "2026-09-14", "title": "秋桜", "artist": "山口百恵"},
+
+    {"date": "2026-09-15", "title": "怪獣", "artist": "サカナクション"},
+    {"date": "2026-09-15", "title": "夜の踊り子", "artist": "サカナクション"},
+    {"date": "2026-09-15", "title": "アイデンティティ", "artist": "サカナクション"},
+
+    {"date": "2026-09-16", "title": "自慢になりたい", "artist": "SUPER BEAVER"},
+    {"date": "2026-09-16", "title": "歓びの明日に", "artist": "SUPER BEAVER"},
+    {"date": "2026-09-16", "title": "ハイライト", "artist": "SUPER BEAVER"},
+
+    {"date": "2026-09-17", "title": "Anarchy in the U.K.", "artist": "Sex Pistols"},
+    {"date": "2026-09-17", "title": "London Calling", "artist": "The Clash"},
+    {"date": "2026-09-17", "title": "New Rose", "artist": "The Damned"},
+
+    {"date": "2026-09-18", "title": "Love Somebody", "artist": "織田裕二"},
+    {"date": "2026-09-18", "title": "生命", "artist": "松山千春"},
+    {"date": "2026-09-18", "title": "Rhythm And Police", "artist": "松本晃彦"},
+
+    {"date": "2026-09-19", "title": "白日", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "傘", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "逆夢", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "Tokyo Rendez-Vous", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "Teenager Forever", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "BOY", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "飛行艇", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "どろん", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "三文小説", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "ユーモア", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "雨燦々", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "Vinyl", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "一途", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "カメレオン", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "SPECIALZ", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "千両役者", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "泡", "artist": "King Gnu"},
+    {"date": "2026-09-19", "title": "Prayer X", "artist": "King Gnu"},
+
+    {"date": "2026-09-20", "title": "空", "artist": "藍坊主"},
+    {"date": "2026-09-20", "title": "鴨川", "artist": "藍坊主"},
+    {"date": "2026-09-20", "title": "空", "artist": "大黒摩季"},
+
+    {"date": "2026-09-21", "title": "Virtual Insanity", "artist": "Jamiroquai"},
+    {"date": "2026-09-21", "title": "I Just Called to Say I Love You", "artist": "Stevie Wonder"},
+    {"date": "2026-09-21", "title": "One More Time", "artist": "Daft Punk"},
+
+    {"date": "2026-09-22", "title": "オトノケ", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "グレートジャーニー", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "板の上の魔物", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "Lazy Boy", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "かつて天才だった俺たちへ", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "二度寝", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "バレる！", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "のびしろ", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "Bad Orangez", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "サントラ", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "阿婆擦れ", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "Bling-Bang-Bang-Born", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "デジタルタトゥー", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "生業", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "ヘルレイザー", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "日曜日よりの使者", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "よふかしのうた", "artist": "Creepy Nuts"},
+    {"date": "2026-09-22", "title": "堕天", "artist": "Creepy Nuts"},
+
+    {"date": "2026-09-23", "title": "DESIRE -情熱-", "artist": "中森明菜"},
+    {"date": "2026-09-24", "title": "空腹と俺", "artist": "ザ・クロマニヨンズ"},
+    {"date": "2026-09-25", "title": "Moon", "artist": "Hi-STANDARD"},
+
+    {"date": "2026-09-27", "title": "ここからだ！", "artist": "DREAMS COME TRUE"},
+    {"date": "2026-09-28", "title": "かわいいだけじゃだめですか？", "artist": "CUTIE STREET"},
+    {"date": "2026-09-29", "title": "キンモクセイ", "artist": "オレンジスパイニクラブ"},
+    {"date": "2026-09-30", "title": "悲しみにさよなら", "artist": "安全地帯"}
+  ]
+}
