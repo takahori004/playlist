@@ -4,3 +4,5 @@ sppl.ini
 logs/*.log
 __pycache__/
 *.pyc
+mf_alert/mf_alert.ini
+mf_alert/*.txt
